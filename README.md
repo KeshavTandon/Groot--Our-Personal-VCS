@@ -1,8 +1,8 @@
-#Groot
+# Groot
 
 Welcome to Groot, a powerful development tool for managing and organizing your projects.
 
-##Features
+## Features
 -Project creation and initialization
 -Version control integration
 -Task management and tracking
@@ -10,7 +10,7 @@ Welcome to Groot, a powerful development tool for managing and organizing your p
 -Documentation generation
 -Code review and feedback
 
-##Getting Started
+## Getting Started
 To get started with Groot, follow these steps:
 
 1.Install Groot by running npm install groot in your project directory.
@@ -21,11 +21,11 @@ To get started with Groot, follow these steps:
 6.Generate documentation for your project using the documentation generation tool.
 7.Review and provide feedback on code changes using the code review module.
 
-##Documentation
+## Documentation
 For detailed documentation on how to use Groot, please refer to the official documentation.
 
-##Contributing
+## Contributing
 We welcome contributions from the community. If you would like to contribute to Groot, please follow our contribution guidelines.
 
-##License
+## License
 Groot is released under the MIT License.
